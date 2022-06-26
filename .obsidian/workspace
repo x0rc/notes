@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Docker/Note.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Docker/Note.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "b9fdcf83146c8a01",
   "lastOpenFiles": [
+    "README.md",
+    "Topic 2/Note 4.md",
+    "Topic 2/Note 3.md",
+    "Topic 1/Note 2.md",
+    "Topic 1/Note 1.md",
     "docs/Docker/Note.md",
     "docs/index.md",
     "docs/About.md",
     "docs/PNPT/Week 1 (6-22 & 6-24) - Linux & Networking.md",
-    "docs/PNPT/Week 0 (Start Here).md",
-    "docs/images/Pasted image 20220626202729.png",
-    "docs/k8s/Note.md",
-    "Pasted image 20220626202525.png",
-    "docs/images/Datoteka:Kubernetes_logo_without_workmark.svg"
+    "docs/PNPT/Week 0 (Start Here).md"
   ]
 }
