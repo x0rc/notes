@@ -1,30 +1,26 @@
-site_name: obsidian-mkdocs template
+site_name: Glowing Symphony
 
 theme:
     name: 'material'
     palette:
 
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: pink
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
-      accent: blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+      primary: black
+      accent: light blue
+      # toggle:
+      #   icon: material/toggle-switch
+      #   name: Switch to light mode
+
 
 # Extensions
 markdown_extensions:
+  - pymdownx.highlight
   - footnotes
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
   # - attr_list
   # - pymdownx.arithmatex
   # - pymdownx.superfences
