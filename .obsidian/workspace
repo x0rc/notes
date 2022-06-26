@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/PNPT/00.md",
+            "file": "docs/Docker/Note.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/PNPT/00.md",
+                "file": "docs/Docker/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,11 @@
   },
   "active": "b9fdcf83146c8a01",
   "lastOpenFiles": [
-    "docs/PNPT/00.md",
+    "docs/Docker/Note.md",
+    "docs/index.md",
+    "docs/About.md",
+    "docs/PNPT/Week 1 (6-22 & 6-24) - Linux & Networking.md",
+    "docs/PNPT/Week 0 (Start Here).md",
     "docs/images/Pasted image 20220626202729.png",
     "docs/k8s/Note.md",
     "Pasted image 20220626202525.png",
