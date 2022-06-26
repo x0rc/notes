@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/PNPT/Note.md",
+            "file": "docs/PNPT/00.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/PNPT/Note.md",
+                "file": "docs/PNPT/00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,8 @@
   },
   "active": "b9fdcf83146c8a01",
   "lastOpenFiles": [
-    "docs/PNPT/Note.md",
+    "docs/PNPT/00.md",
+    "docs/images/Pasted image 20220626202729.png",
     "docs/k8s/Note.md",
     "Pasted image 20220626202525.png",
     "docs/images/Datoteka:Kubernetes_logo_without_workmark.svg"
