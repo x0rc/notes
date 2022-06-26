@@ -1,6 +1,4 @@
-# Cluster Maintenance
-
-## OS Upgrades
+# OS Upgrades
 
 We have a cluster with 2 nodes.
 ![[Pasted image 20220626231405.png]]
