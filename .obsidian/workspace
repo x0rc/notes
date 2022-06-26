@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "d9aa76f1a6418bfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9fdcf83146c8a01",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/PNPT/Note.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f44341c22e5110e",
+    "type": "split",
+    "children": [
+      {
+        "id": "48be73aceeebeeaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4b28d53e09f5916",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c57e724b52be7157",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af21b5f4f9c67b54",
+    "type": "split",
+    "children": [
+      {
+        "id": "a45c0ae7e775473a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0db0da0a5751b1d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/PNPT/Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b9fdcf83146c8a01",
+  "lastOpenFiles": [
+    "docs/PNPT/Note.md",
+    "docs/k8s/Note.md",
+    "Pasted image 20220626202525.png",
+    "docs/images/Datoteka:Kubernetes_logo_without_workmark.svg"
+  ]
+}
