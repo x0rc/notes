@@ -1,7 +1,8 @@
+# Manual Scheduling
+
 https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/
 
 - example how to assign pod to a node(01)
-
 
 ```yaml
 ---
@@ -15,4 +16,3 @@ spec:
      name: nginx
   nodeName: node01
   ```
-  
