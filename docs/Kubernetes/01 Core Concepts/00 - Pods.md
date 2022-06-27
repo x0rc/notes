@@ -1,4 +1,4 @@
-# PODS in k8s cluster
+# PODs
 
 - list pods
 ```bash
