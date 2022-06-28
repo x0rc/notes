@@ -1,0 +1,2 @@
+# Managing Application logs
+- Application logs can help you understand what is happening inside your application. `k logs` Print the logs for a container in a pod or specified resource. If the pod has only one container, the container name is optional.
