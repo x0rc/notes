@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b9fdcf83146c8a01",
+        "id": "a615dbf829b07f61",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Kubernetes/Cluster Maintence.md",
+            "file": "docs/Kubernetes/02 Scheduling/35 - Multiple Schedulers.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Kubernetes/Cluster Maintence.md",
+                "file": "docs/Kubernetes/02 Scheduling/35 - Multiple Schedulers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9fdcf83146c8a01",
+  "active": "a615dbf829b07f61",
   "lastOpenFiles": [
-    "docs/Kubernetes/Cluster Maintence.md",
-    "docs/images/Pasted image 20220626231627.png",
-    "docs/index.md",
-    "docs/About.md",
-    "README.md",
-    "Topic 2/Note 4.md",
-    "Topic 2/Note 3.md",
-    "Topic 1/Note 2.md",
-    "Topic 1/Note 1.md",
-    "docs/Docker/Note.md"
+    "docs/Kubernetes/02 Scheduling/35 - Multiple Schedulers.md",
+    "docs/Kubernetes/03 Logging & Monitoring/05 - Managing Application logs.md",
+    "docs/Kubernetes/04 Application Lifecycle Management/00 - Test rolling updates & rollbacks.md",
+    "docs/Kubernetes/03 Logging & Monitoring/00 - Monitor Cluster Components.md",
+    "docs/Kubernetes/04 Application Lifecycle Management/Untitled 5.md",
+    "docs/Kubernetes/04 Application Lifecycle Management/Untitled 4.md",
+    "docs/Kubernetes/04 Application Lifecycle Management/Untitled 3.md",
+    "docs/Kubernetes/04 Application Lifecycle Management/Untitled 2.md",
+    "docs/Kubernetes/04 Application Lifecycle Management/Untitled 1.md",
+    "docs/Kubernetes/02 Scheduling/00 - Manual Scheduling.md"
   ]
 }
