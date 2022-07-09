@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Kubernetes/04 Application Lifecycle Management/15 - Secrets.md",
-            "mode": "source"
+            "file": "docs/cmds.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Kubernetes/04 Application Lifecycle Management/15 - Secrets.md",
+                "file": "docs/cmds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "d4649f2904aa63fb",
   "lastOpenFiles": [
+    "docs/cmds.md",
     "docs/Kubernetes/04 Application Lifecycle Management/15 - Secrets.md",
     "docs/Kubernetes/04 Application Lifecycle Management/10 - Env Variables.md",
     "docs/Kubernetes/04 Application Lifecycle Management/05 - Commands & Arguments.md",
@@ -96,7 +97,6 @@
     "docs/images/Pasted image 20220628102736.png",
     "docs/Kubernetes/02 Scheduling/00 - Manual Scheduling.md",
     "docs/Kubernetes/02 Scheduling/35 - Multiple Schedulers.md",
-    "docs/Kubernetes/03 Logging & Monitoring/05 - Managing Application logs.md",
-    "docs/Kubernetes/03 Logging & Monitoring/00 - Monitor Cluster Components.md"
+    "docs/Kubernetes/03 Logging & Monitoring/05 - Managing Application logs.md"
   ]
 }
