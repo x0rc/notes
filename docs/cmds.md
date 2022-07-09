@@ -1,4 +1,4 @@
-# zhistory
+# x0rchive
 
 
 ```bash
@@ -6,5 +6,5 @@
 
 | command | time | date | description |
 | ------- | ---- | ---- | ----------- |
-| pwd | 16:14:23 | 07/09/22 | no desc provided |
-| cd | 16:26:17 | 07/09/22 | no desc provided |
+| kubectx | 16:52:50 | 07/09/22 | changes kubecontext |
+| sudo snap install kontena-lens --classic | 17:52:14 | 07/09/22 | visualise your k8s cluster |
