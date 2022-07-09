@@ -7,4 +7,6 @@
 | command | time | date | description |
 | ------- | ---- | ---- | ----------- |
 | sudo snap install kontena-lens --classic | 17:52:14 | 07/09/22 | visualise your k8s cluster |
-
+| kubectl run nginx --image=nginx | 20:33:41 | 07/09/22 | create pod |
+| k get pods -o wide | 20:35:53 | 07/09/22 | wide info |
+| k run redis --image=redis --dry-run=client -o yaml > redis.yaml | 20:40:28 | 07/09/22 | creates manifest file |
