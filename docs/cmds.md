@@ -21,5 +21,5 @@
 | xargs -a a.txt -n1 -I{} sh -c 'echo {} \| base64 -d' | 17:10:02 | 07/24/22 | will base64 decode every line from a txt file |
 | find . -type f \| grep '\.json'  | 17:58:24 | 07/24/22 | lists only .json files |
 | find . -type f \| grep '\.js$'  | 17:59:19 | 07/24/22 | lists only .js files |
-| docker image inspect 406912119862.dkr.ecr.us-east-1.amazonaws.com/iwjwt \| gron \| grep PATH | 18:11:27 | 07/24/22 | the day I met GRON |
-| docker image inspect 406912119862.dkr.ecr.us-east-1.amazonaws.com/iwjwt \| gron \| grep PATH \| gron -u | 18:11:44 | 07/24/22 | gron reverse |
+| docker image inspect <image> \| gron \| grep PATH | 18:11:27 | 07/24/22 | the day I met GRON |
+| docker image inspect <image> \| gron \| grep PATH \| gron -u | 18:11:44 | 07/24/22 | gron reverse |
